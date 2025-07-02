@@ -4,6 +4,8 @@
   "description": "This is My React Project in first",
  
   "scripts": {
+    "start": "parcel index.html",
+    "Build": "parcel build index.html",
     "test": "jest"
   },
   "keywords": [
